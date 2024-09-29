@@ -1,0 +1,6 @@
+{
+    "Post": true,
+    "Category": true,
+    "Tag": false,
+    "Ticket": true
+}
